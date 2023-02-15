@@ -1,0 +1,6 @@
+Basics of Netlify Test:
+
+1.Play around with the different methods of hosting your website on Netlify
+2.Create a netlify.toml file and explain why did you do it(also play around with it)
+3.Create a _redirects file and explain why did you do it(also play around with it)
+4.Build to Netlify!

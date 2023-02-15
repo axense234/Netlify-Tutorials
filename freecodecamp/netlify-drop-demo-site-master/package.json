@@ -1,0 +1,29 @@
+{
+  "name": "netlify-drop-demo-site-master",
+  "version": "1.0.0",
+  "description": "Silly demo site to be used for [Netlify Drop](https://app.netlify.com/drop).",
+  "scripts": {
+    "start": "npx parcel src/index.html",
+    "prebuild":"echo $MY_SECRET",
+    "build": "npx parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axense234/Netlify-Freecodecamp-Tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axense234/Netlify-Freecodecamp-Tutorial/issues"
+  },
+  "homepage": "https://github.com/axense234/Netlify-Freecodecamp-Tutorial#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.7.0",
+    "process": "^0.11.10"
+  }
+}

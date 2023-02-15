@@ -1,0 +1,16 @@
+NOTE: netlify can be shortcutted to ntl
+
+Check Netlify CLI Version:
+-netlify --version
+
+Check if you are logged in:
+-netlify status
+
+Login your account:
+-netlify login
+
+Deploy a draft:
+-netlify deploy
+
+Deploy to production:
+-netlify deploy --prod

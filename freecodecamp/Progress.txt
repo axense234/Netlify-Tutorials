@@ -1,0 +1,9 @@
+Netlify Tutorial - How to build and deploy websites using Netlify:
+-done Netlify Drop
+-done Netlify CLI
+-done Netlify Continuous Deployment
+-done Deploy to Netlify Button(used in README's)
+-done Build Settings
+-done Build Process
+-done Build Bots
+-done Environment Variables
